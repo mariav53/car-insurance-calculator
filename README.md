@@ -1,6 +1,6 @@
 # Car insurance calculator
 
-A simple car insurance calculator built with Vanilla Javascrip.
+A simple car insurance calculator built with Vanilla Javascript.
 
 ![Image design](/img/project-insurance-calculator-design.png)
 
